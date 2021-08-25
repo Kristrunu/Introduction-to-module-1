@@ -6,11 +6,15 @@ body {
     font-family: metrophobic;
     color: rgb(22, 73, 54);
    }
+   
+/* ======== header styles ======== */
 
 .header-container {
     padding: 50px 0 50px 0;
     background-color: rgb(247, 232, 214);
 }
+
+/* ========= text styles ========= */
 
 .text-container {
     margin: 50px 0 0 0;
@@ -28,6 +32,8 @@ body {
     width: 100%;
 }
 
+/* ======== img styles ========= */
+
 .img-container {
     margin: 150px 0 0 0;
     display: flex;
@@ -36,6 +42,8 @@ body {
     align-items: center;
     padding: 0 5% 0 5%;
 }
+
+/* ========= footer styles ======== */
 
 .footer {
     display: flex;
